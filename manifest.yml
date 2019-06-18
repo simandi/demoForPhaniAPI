@@ -1,0 +1,8 @@
+---
+applications:
+- name: my-app123
+memory: 512M
+instances: 1
+random-route: true
+buildpacks:
+- https://github.com/cloudfoundry/nodejs-buildpack
