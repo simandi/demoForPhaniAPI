@@ -1,5 +1,0 @@
----
-applications:
-- name: my-app123
-buildpacks:
-- https://github.com/cloudfoundry/nodejs-buildpack
